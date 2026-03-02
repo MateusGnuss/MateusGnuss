@@ -1,16 +1,12 @@
-## Hi there 👋
+# **Salve**
+### Meu nome e Mateus e aqui ta um breve resumo sobre meus gostos ideias e por que estou no git hub
+* Idade: 19 Anos
+* Gosto de jogos, conversar, escutar musicas no geral mas tenho minas preferencias (ROCK)
+* Estou no GitHub por conta da cuirosidade em prorgamação e Faculdade
+---
+## Jogos favoritos
+1. Hollow knight
+2. Serie souls
+3. Undertale
 
-<!--
-**MateusGnuss/MateusGnuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Pizza de abacaxi e uma Bosta**
